@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sanyo",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "PGM"
+  },
+  {
+    "name": "pratyay",
+    "branch": "aids",
+    "subjects": [
+      "Maths",
+      "SE",
+      "CNN"
+    ],
+    "elective": "PGM"
+  },
+  {
+    "name": "sanyo fonseca",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "sanyo fonseca",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
+  }
+]
