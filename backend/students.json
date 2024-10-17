@@ -38,5 +38,25 @@
       "Wiring"
     ],
     "elective": "pgm"
+  },
+  {
+    "name": "Pratyay",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Allan Monis",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
   }
 ]

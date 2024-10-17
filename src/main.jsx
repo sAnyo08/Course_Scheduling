@@ -45,7 +45,7 @@ export default function Component() {
         if (userType === 'student') {
             navigate('/studentPage')  // Replace with the actual student page route
         } else if (userType === 'admin') {
-            navigate('/admin-page')  // Replace with the actual admin page route
+            navigate('/adminPage')  // Replace with the actual admin page route
         }
     }
 

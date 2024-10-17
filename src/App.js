@@ -2,18 +2,18 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Main from './main';
 import StudentEnrollment from './studentPage';
+import AdminPanel from './adminPage';
+import StudentData from './studentDataPage';
 
 function App() {
   return (
     <Router>
       <div className="App">
-        {/* Define Routes here */}
         <Routes>
-          {/* Route for Main page */}
           <Route path="/" element={<Main />} />
-
-          {/* Route for Student Enrollment page */}
+          <Route path="/adminpage" element={<AdminPanel />} />
           <Route path="/studentPage" element={<StudentEnrollment />} />
+          <Route path="/studentDataPage" element={<StudentData />} />
         </Routes>
       </div>
     </Router>
