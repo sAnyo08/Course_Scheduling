@@ -1,0 +1,42 @@
+[
+  {
+    "Teacher_name": "Prachil Patil",
+    "teaching_subject": "IP"
+  },
+  {
+    "Teacher_name": "Sujata Deshmuk",
+    "teaching_subject": "Maths"
+  },
+  {
+    "Teacher_name": "Kranti Wagle",
+    "teaching_subject": "CN"
+  },
+  {
+    "Teacher_name": "Prajakta Kohli",
+    "teaching_subject": "TCS"
+  },
+  {
+    "Teacher_name": "Daga Sir",
+    "teaching_subject": "SE"
+  },
+  {
+    "Teacher_name": "Joshua Dmello",
+    "teaching_subject": "CNN"
+  },
+  {
+    "Teacher_name": "Flin Sir",
+    "teaching_subject": "C-code"
+  },
+  {
+    "Teacher_name": "Ashok kante",
+    "teaching_subject": "Wiring"
+  },
+  {
+    "Teacher_name": "Merly Thomas",
+    "teaching_subject": "Electronics"
+  },
+  {
+    "Teacher_name": "Unik Lokhande",
+    "teaching_subject": "PGM"
+  }
+]

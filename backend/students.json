@@ -58,5 +58,125 @@
       "Wiring"
     ],
     "elective": "pgm"
+  },
+  {
+    "name": "Mayank",
+    "branch": "aids",
+    "subjects": [
+      "Maths",
+      "SE",
+      "CNN"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "Aayush",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Sheldon",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Shrine",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "hardik",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "Shreya",
+    "branch": "aids",
+    "subjects": [
+      "Maths",
+      "SE",
+      "CNN"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "Shreya Joshi",
+    "branch": "aids",
+    "subjects": [
+      "Maths",
+      "SE",
+      "CNN"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Pratyay",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Aryan Daripkar",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "Azan Khan",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "ip"
+  },
+  {
+    "name": "Calix",
+    "branch": "comp",
+    "subjects": [
+      "Maths",
+      "TCS",
+      "CN"
+    ],
+    "elective": "pgm"
+  },
+  {
+    "name": "adarsh sing",
+    "branch": "tcs",
+    "subjects": [
+      "Electronics",
+      "C-code",
+      "Wiring"
+    ],
+    "elective": "pgm"
   }
 ]

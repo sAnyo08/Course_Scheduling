@@ -1,0 +1,46 @@
+[
+  {
+    "room_number": "501",
+    "capacity": "70"
+  },
+  {
+    "room_number": "502",
+    "capacity": "60"
+  },
+  {
+    "room_number": "503",
+    "capacity": "70"
+  },
+  {
+    "room_number": "602",
+    "capacity": "75"
+  },
+  {
+    "room_number": "603",
+    "capacity": "75"
+  },
+  {
+    "room_number": "604",
+    "capacity": "75"
+  },
+  {
+    "room_number": "707",
+    "capacity": "75"
+  },
+  {
+    "room_number": "706",
+    "capacity": "60"
+  },
+  {
+    "room_number": "801",
+    "capacity": "70"
+  },
+  {
+    "room_number": "802",
+    "capacity": "70"
+  },
+  {
+    "room_number": "803",
+    "capacity": "75"
+  }
+]

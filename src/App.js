@@ -4,6 +4,7 @@ import Main from './main';
 import StudentEnrollment from './studentPage';
 import AdminPanel from './adminPage';
 import StudentData from './studentDataPage';
+import GenerateTimetable from './generateTable';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/adminpage" element={<AdminPanel />} />
           <Route path="/studentPage" element={<StudentEnrollment />} />
           <Route path="/studentDataPage" element={<StudentData />} />
+          <Route path="/generateTable" element={<GenerateTimetable />} />
         </Routes>
       </div>
     </Router>

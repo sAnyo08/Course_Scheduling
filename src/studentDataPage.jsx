@@ -14,11 +14,20 @@ const StudentData = () => {
     }, []);
 
     const downloadExcel = () => {
-        const worksheet = XLSX.utils.json_to_sheet(students);
+        // Create a copy of students array with subjects as a string (CSV format)
+        const formattedStudents = students.map(student => ({
+            ...student,
+            subjects: student.subjects.join(', '),  // Convert subjects array to string
+        }));
+
+        const worksheet = XLSX.utils.json_to_sheet(formattedStudents);  // Use the updated array
         const workbook = XLSX.utils.book_new();
         XLSX.utils.book_append_sheet(workbook, worksheet, 'Students');
+
+        // Create Excel file and trigger download
         XLSX.writeFile(workbook, 'student_data.xlsx');
     };
+
 
     const containerStyle = {
         fontFamily: 'Arial, sans-serif',
